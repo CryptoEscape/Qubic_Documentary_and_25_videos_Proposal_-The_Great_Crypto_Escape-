@@ -53,8 +53,8 @@ Community demand is high, but capacity is limited without support. This proposal
 
 | Month  | Deliverables                                      | Estimated Hours |
 |--------|---------------------------------------------------|-----------------|
-| Month 1| 15 YouTube videos + 20 X posts + doc prep          | ~125 hrs        |
-| Month 2| 10 YouTube videos + 20 X posts + doc completion    | ~95 hrs         |
+| Month 1| 15 YouTube videos + 20 X posts + documentary prep          | ~125 hrs        |
+| Month 2| 10 YouTube videos + 20 X posts + documentary completion    | ~95 hrs         |
 
 **Total Output (Over 2 Months):**  
 - 🎥 **25 YouTube videos** (5–30 minutes each)  
